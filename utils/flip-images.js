@@ -4,7 +4,7 @@
 // Usage:
 //   node utils/flip-images.js <image> [image...]
 //
-// - Bare file names are looked up in images/2048, e.g. "gmfc_left.png".
+// - Bare file names are looked up in images/2048, e.g. "Gordano_Model_Flying_Club_left.png".
 // - Paths containing a folder are used as given, e.g. "images/other/sky.png".
 // - Flipping the same image twice restores the original.
 

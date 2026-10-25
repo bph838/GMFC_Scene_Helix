@@ -12,9 +12,9 @@
 const fs = require("fs");
 const path = require("path");
 
-const helix_path = "C:\\ProgramData\\HELI-X11\\resources\\environments\\SkyBox\\gmfc\\";
+const helix_path = "C:\\ProgramData\\HELI-X11\\resources\\environments\\SkyBox\\Gordano_Model_Flying_Club\\";
 
-const default_source = path.join(__dirname, "..", "src", "gmfc.xml");
+const default_source = path.join(__dirname, "..", "src", "Gordano_Model_Flying_Club.xml");
 
 // With no arguments, copies the Gordano XML into the HeliX SkyBox folder.
 const [source = default_source, destination = helix_path] = process.argv.slice(2);

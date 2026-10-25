@@ -4,7 +4,7 @@
 // Usage:
 //   node utils/swap-files.js <file-a> <file-b>
 //
-// - Bare file names are looked up in images/2048, e.g. "gmfc_left.jpg".
+// - Bare file names are looked up in images/2048, e.g. "Gordano_Model_Flying_Club_left.jpg".
 // - Paths containing a folder are used as given, e.g. "images/other/sky.jpg".
 // - Running the same swap twice restores the original names.
 

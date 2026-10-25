@@ -12,7 +12,7 @@
 const fs = require("fs");
 const path = require("path");
 
-const helix_path = "C:\\ProgramData\\HELI-X11\\resources\\environments\\SkyBox\\gmfc\\";
+const helix_path = "C:\\ProgramData\\HELI-X11\\resources\\environments\\SkyBox\\Gordano_Model_Flying_Club\\";
 
 const src = path.join(__dirname, "..", "src");
 const dest = path.resolve(process.argv[2] || helix_path);
