@@ -23,4 +23,5 @@
    <HeightOfEyes>1.7</HeightOfEyes>
    <UseStandardHeightOfGroundPlane>false</UseStandardHeightOfGroundPlane>
    <TopographyFile>Terrain_Shadow.xml</TopographyFile>
+   <TopographyFile>Obstacles.xml</TopographyFile>
 </project>
