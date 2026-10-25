@@ -22,5 +22,5 @@
    <Resolution8192>false</Resolution8192>
    <HeightOfEyes>1.7</HeightOfEyes>
    <UseStandardHeightOfGroundPlane>false</UseStandardHeightOfGroundPlane>
-   <TopographyFile>Terrain_NoShadow.xml</TopographyFile>
+   <TopographyFile>Terrain_Shadow.xml</TopographyFile>
 </project>
