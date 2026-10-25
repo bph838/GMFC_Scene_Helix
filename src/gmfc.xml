@@ -1,0 +1,26 @@
+<!-- Heli-X Project File (Format: V5) -->
+<project>
+   <Version>2024-02-11</Version>
+   <HelixRevision>1401</HelixRevision>
+   <Name>Gordano Model Flying Club</Name>
+   <Author>Ben Hooper (c) 2026</Author>
+   <WWW>http://www.gmfc.uk</WWW>
+   <Comment>Gordano Model Flying Club, recorded in October, 2026. The author welcomes suggestions and feedback. By using the scenery, the user accepts the End-User License Agreement (EULA). Porting to Heli-X: Ben Hooper</Comment>
+   <ShadowIntensity>0.45</ShadowIntensity>
+   <ShadowLambda>0.15</ShadowLambda>
+   <StartPosition>0,0,10</StartPosition>
+   <StartAngle>0</StartAngle>
+   <HeightOfGround>0</HeightOfGround>
+   <ShadowOnGroundPlane>false</ShadowOnGroundPlane>
+   <LightDir>0.949,-0.237,-0.206</LightDir>
+   <UseSunshine>true</UseSunshine>
+   <CrashSensitivityFactorGroundPlane>1.0</CrashSensitivityFactorGroundPlane>
+   <FrictionFactorGroundPlane>1.0</FrictionFactorGroundPlane>
+   <Resolution1024>false</Resolution1024>
+   <Resolution2048>true</Resolution2048>
+   <Resolution4096>false</Resolution4096>
+   <Resolution8192>false</Resolution8192>
+   <HeightOfEyes>1.7</HeightOfEyes>
+   <UseStandardHeightOfGroundPlane>false</UseStandardHeightOfGroundPlane>
+   <TopographyFile>Terrain_NoShadow.xml</TopographyFile>
+</project>

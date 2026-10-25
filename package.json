@@ -1,0 +1,29 @@
+{
+  "name": "helix_project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "copy": "node utils/copy-files.js",
+    "copy:terrain": "node utils/copy-files.js src/Terrain.xml",    
+    "copy:2048": "node utils/copy-files.js images/2048",
+    "copy:src": "node utils/copy-src.js",
+    "flip": "node utils/flip-images.js",
+    "flip:sides": "npm run flip -- gmfc_left.jpg gmfc_right.jpg",
+    "flip:all": "npm run flip -- gmfc_top.jpg gmfc_bottom.jpg gmfc_left.jpg gmfc_right.jpg",
+    "flip:back": "npm run flip -- gmfc_back.jpg",
+    "flip:front": "npm run flip -- gmfc_front.jpg",
+    "flip:bottom": "npm run flip -- gmfc_bottom.jpg",
+    "flip:top": "npm run flip -- gmfc_top.jpg",
+    "swap": "node utils/swap-files.js",
+    "swap:frontback": "npm run swap -- gmfc_top.jpg gmfc_bottom.jpg",
+    "swap:leftright": "npm run swap -- gmfc_left.jpg gmfc_right.jpg"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "sharp": "^0.35.5"
+  }
+}
