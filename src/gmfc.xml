@@ -24,4 +24,5 @@
    <UseStandardHeightOfGroundPlane>false</UseStandardHeightOfGroundPlane>
    <TopographyFile>Terrain_Shadow.xml</TopographyFile>
    <TopographyFile>Obstacles.xml</TopographyFile>
+   <TopographyFile>Hedges.xml</TopographyFile>
 </project>
