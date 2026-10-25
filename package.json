@@ -9,6 +9,7 @@
     "copy:terrain": "node utils/copy-files.js src/Terrain.xml",    
     "copy:2048": "node utils/copy-files.js images/2048",
     "copy:src": "node utils/copy-src.js",
+    "copy:scene": "node utils/copy-scene.js",
     "flip": "node utils/flip-images.js",
     "flip:sides": "npm run flip -- Gordano_Model_Flying_Club_left.jpg Gordano_Model_Flying_Club_right.jpg",
     "flip:all": "npm run flip -- Gordano_Model_Flying_Club_top.jpg Gordano_Model_Flying_Club_bottom.jpg Gordano_Model_Flying_Club_left.jpg Gordano_Model_Flying_Club_right.jpg",
